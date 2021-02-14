@@ -9,8 +9,8 @@ args:
   passive: REGISTER_NO_MSO_TYPES=1 ISCHECKFORPRODUCTUPDATES=0 ADDLOCAL=ALL
   silent: REGISTER_NO_MSO_TYPES=1 ISCHECKFORPRODUCTUPDATES=0 ADDLOCAL=ALL
 installers:
-- location: https://download.documentfoundation.org/libreoffice/stable/6.4.2/win/x86/LibreOffice_6.4.2_Win_x86.msi
-  sha256: ee149db673fcbe6fb311703a96c29dfd7e1901381d50d992274c909484a061a0
-- location: https://download.documentfoundation.org/libreoffice/stable/6.4.2/win/x86_64/LibreOffice_6.4.2_Win_x64.msi
-  sha256: 853bf1e8b46b849a57d4643dbde8451280d7ff8140e68af355acc868e3a00bd1
+- location: https://download.documentfoundation.org/libreoffice/stable/7.0.4/win/x86/LibreOffice_7.0.4_Win_x86.msi
+  sha256: a19084d17b2170e08319651846c73fff9f103f5e69aa35f8d06f34c55f2cde32
+- location: https://download.documentfoundation.org/libreoffice/stable/7.0.4/win/x86_64/LibreOffice_7.0.4_Win_x64.msi
+  sha256: 37a36b570a599b9c1e377b7c709155dd566a5eb1e8e857ca139b824d3a12e55b
   architecture: x64
