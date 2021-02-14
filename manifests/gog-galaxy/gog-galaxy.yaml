@@ -4,5 +4,5 @@ version: 1.2.66.64
 home: https://www.gog.com/
 installMethod: Inno
 installers:
-- location: https://content-system.gog.com/open_link/download?path=/open/galaxy/client/setup_galaxy_1.2.66.64.exe
-  sha256: 1cdae5bf95666f822ecec358b1b48d8af39f0a85e7962bf417574c8814e21f77
+- location: https://webinstallers.gog-statics.com/download/GOG_Galaxy_2.0.exe
+  sha256: 916EBCF547D62045B9F0AF1ACC9D79BB6858C477
